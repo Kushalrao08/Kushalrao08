@@ -19,7 +19,7 @@
   <a href="[https://www.linkedin.com/in/kushal-rao-n-sinde-4795b6281/]" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/deepss112" target="blank">
+  <a href="https://instagram.com/kushal._08" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
  
