@@ -24,7 +24,17 @@
 </p>
 
 ---
+<h2 align="center"> 📊 GitHub Analytics </h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kushalrao08&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalrao08&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kushalrao08&theme=dark&border_radius=5" height="160"/>
+</p>
+---
 <h2 align="center"> 🌐 Connect with Me </h2>
 
 <p align="center">
