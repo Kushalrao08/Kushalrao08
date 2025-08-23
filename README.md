@@ -1,52 +1,113 @@
-<h1 align="center">Hi 👋, I'm Kushal Rao N Sinde</h1>
-<h3 align="center">A passionate frontend developer who’s also exploring backend projects</h3>
-
-- 🌱 I’m currently learning *Java* and *DSA using java*
-
-- 💬 Ask me about *Java, DSA, MERN STACK*
-
-- 📫 Reach me at: *kushalrao057@gmail.com*
-
-- 📄 Check out my resume: [Click here](https://drive.google.com/file/d/1OpC8NROBuBN0EusBAefyOX55Z8jM3nZ8/view?usp=sharing)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="mailto:kushalrao057@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email" height="30" width="40"/>
-  </a>
-  <a href="[https://www.linkedin.com/in/kushal-rao-n-sinde-4795b6281/]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/kushal._08" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
- 
+<!-- Typing Animation Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hey!+I'm+Kushal+Rao+👋;Computer+Science+Engineer+Student;Full+Stack+Developer+%7C+Java+%7C+DSA;Learning+Cloud+%26+AI;Passionate+about+Building+%26+Problem+Solving" alt="Typing SVG" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+<h2 align="center"> 👨‍💻 About Me </h2>
 
-   <a href="https://www.mysql.com/"  target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-    
-   <a href="https://console.cloud.google.com/"  target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google cloud" width="40" height="40"/></a>
+<p align="center">
+🎓 Computer Science Engineering undergraduate @ <b>SDM Institute of Technology</b> (2022–Present)  
+📍 Based in Karnataka, India  
+💡 Skilled in <b>Java, JavaScript, React (Basics), MySQL, DBMS, DSA</b>  
+🚀 Passionate about <b>Full-Stack Development & Emerging Tech (Cloud, AI)</b>  
+✨ Motto: <i>Code. Learn. Innovate.</i>  
 </p>
+
+---
+
+<h2 align="center"> 🛠️ Tech Stack </h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,html,css,mysql,git,github,vscode,gcp" />
+</p>
+
+---
+
+<h2 align="center"> 📂 Academic Projects </h2>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🎬 Netflix Clone</h3>
+<p align="center">Responsive frontend replica using HTML, CSS, Flexbox & Grid.</p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao057&repo=netflix-clone&theme=radical" /></a></p>
+</td>
+
+<td width="50%">
+<h3 align="center">📧 Email Validator</h3>
+<p align="center">JS web tool using Regex with real-time feedback.</p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao057&repo=email-validator&theme=radical" /></a></p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🧮 Functional Calculator</h3>
+<p align="center">Responsive calculator with arithmetic operations.</p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao057&repo=calculator&theme=radical" /></a></p>
+</td>
+
+<td width="50%">
+<h3 align="center">🌐 Team Portfolio</h3>
+<p align="center">Group portfolio website with modular design.</p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao057&repo=team-portfolio&theme=radical" /></a></p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+<h3 align="center">🍔 Food Ordering App</h3>
+<p align="center">JS + CSS app simulating online food ordering with cart & filters.</p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao057&repo=food-ordering-app&theme=radical" /></a></p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center"> 📊 GitHub Analytics </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kushalrao057&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalrao057&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kushalrao08&theme=dark&border_radius=5" height="160"/>
+</p>
+
+---
+
+<h2 align="center"> 📈 Extras </h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushalrao08&bg_color=0D1117&color=00FF00&line=FF00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushalrao08&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+<h2 align="center"> 🌐 Connect with Me </h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kushal-rao-n-sinde-4795b6281/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/kushalrao08"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:kushalrao057@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<h3 align="center">✨ "The best way to predict the future is to build it." ✨</h3>
