@@ -32,13 +32,13 @@
 <td width="50%">
 <h3 align="center">🎬 Netflix Clone</h3>
 <p align="center">Responsive frontend replica using HTML, CSS, Flexbox & Grid.</p>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao057&repo=netflix-clone&theme=radical" /></a></p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao08&repo=netflix-clone&theme=radical" /></a></p>
 </td>
 
 <td width="50%">
 <h3 align="center">📧 Email Validator</h3>
 <p align="center">JS web tool using Regex with real-time feedback.</p>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao057&repo=email-validator&theme=radical" /></a></p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao08&repo=email-validator&theme=radical" /></a></p>
 </td>
 </tr>
 </table>
@@ -48,13 +48,13 @@
 <td width="50%">
 <h3 align="center">🧮 Functional Calculator</h3>
 <p align="center">Responsive calculator with arithmetic operations.</p>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao057&repo=calculator&theme=radical" /></a></p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao08&repo=calculator&theme=radical" /></a></p>
 </td>
 
 <td width="50%">
 <h3 align="center">🌐 Team Portfolio</h3>
 <p align="center">Group portfolio website with modular design.</p>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao057&repo=team-portfolio&theme=radical" /></a></p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao08&repo=team-portfolio&theme=radical" /></a></p>
 </td>
 </tr>
 </table>
@@ -64,7 +64,7 @@
 <td width="100%">
 <h3 align="center">🍔 Food Ordering App</h3>
 <p align="center">JS + CSS app simulating online food ordering with cart & filters.</p>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao057&repo=food-ordering-app&theme=radical" /></a></p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao08&repo=food-ordering-app&theme=radical" /></a></p>
 </td>
 </tr>
 </table>
@@ -74,8 +74,8 @@
 <h2 align="center"> 📊 GitHub Analytics </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushalrao057&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalrao057&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kushalrao08&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalrao08&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
