@@ -32,13 +32,13 @@
 <td width="50%">
 <h3 align="center">🎬 Netflix Clone</h3>
 <p align="center">Responsive frontend replica using HTML, CSS, Flexbox & Grid.</p>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao08&repo=netflix-clone&theme=radical" /></a></p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao08&repo=NetflixCLONE&theme=radical" /></a></p>
 </td>
 
 <td width="50%">
-<h3 align="center">📧 Email Validator</h3>
-<p align="center">JS web tool using Regex with real-time feedback.</p>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao08&repo=email-validator&theme=radical" /></a></p>
+<h3 align="center">🌐 Portfolio</h3>
+<p align="center">Group portfolio website with modular design.</p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao08&repo=myPortfolio&theme=radical" /></a></p>
 </td>
 </tr>
 </table>
@@ -52,9 +52,9 @@
 </td>
 
 <td width="50%">
-<h3 align="center">🌐 Team Portfolio</h3>
-<p align="center">Group portfolio website with modular design.</p>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao08&repo=team-portfolio&theme=radical" /></a></p>
+<h3 align="center">📧 Email Validator</h3>
+<p align="center">JS web tool using Regex with real-time feedback.</p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalrao08&repo=email-validator&theme=radical" /></a></p>
 </td>
 </tr>
 </table>
