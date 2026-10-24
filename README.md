@@ -8,7 +8,7 @@
 <h2 align="center"> 👨‍💻 About Me </h2>
 
 <p align="center">
-🎓 <b>Computer Science Engineering Graduate</b> @ <b>SDM Institute of Technology</b> (2022–2026) | <b>CGPA: 8.50</b>  
+🎓 <b>Computer Science Engineering Graduate</b> @ <b>SDM Institute of Technology</b> (2022–2026) |  
 📍 Based in <b>Karnataka, India</b>  
 💼 <b>Java Full Stack Developer Intern</b> @ <b>Robowaves Technologies</b> & Ex-Intern @ <b>JSpiders</b>  
 💡 Skilled in <b>Java, Spring Boot, React.js, MySQL, REST APIs, Python, AWS & GCP</b>  
